@@ -22,7 +22,7 @@ function Home() {
             console.log(task);
 
             // const response = await fetch('http://localhost:8008/askquestion', {
-              const response = await fetch('http://13.61.153.212:8000/askquestion', {
+              const response = await fetch('api/askquestion', {
               // const response = await fetch('http://16.16.63.232:8000/askquestion', {
           // const response = await fetch('http://192.168.0.244:8000/ask', 
           
